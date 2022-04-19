@@ -1,0 +1,38 @@
+*{
+    
+}
+
+.header{
+    background-image: url("/images/20210730_124105.jpg");
+    background-size: cover;
+    height: 800px;
+    text-align: center; 
+}
+
+body{
+    background-color: darkkhaki;
+}
+
+.navigation{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+tr{
+    margin: 40px;
+}
+
+a:hover{
+    color: darkorange;
+}
+
+#introduction{
+    font-family: Arial;
+    color: darkgoldenrod;
+}
+
+#blogpost1{
+    background: darkgreen;
+}
