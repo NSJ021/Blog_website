@@ -1,2 +1,3 @@
-# Web_Development
-Repository for web development based topics, including sample sites and leanring resources
+# Web_Development, Blog Website
+
+Repository for first web project, Blog website
